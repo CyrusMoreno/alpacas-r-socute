@@ -1,6 +1,6 @@
 ## Data Science And Beyond
 
-First of all, thank you for taking time to read my page. I love Data Science. As you may know, adult life are made of big decisions, most are yours to decide while the reminder are made by others. 
+First of all, thank you for taking time to read my page. I love Data Science. As you may know, adult life are made of big decisions, most are yours to decide while the reminder are made by others for you. 
 
 Before I took [Google Data Analytics Course](https://www.coursera.org/professional-certificates/google-data-analytics), hearing something like "social media companies are making money out of users data" is something that doesn't make sense to me. I mean how can someone make money out of me liking meme pictures on the internet and searching for pc gaming related topics, right? Now, it all make sense to me. 
 
