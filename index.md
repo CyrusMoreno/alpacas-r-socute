@@ -48,7 +48,7 @@ I uploaded csv file to google sheets.
 #### Scenario
 You are a junior data analyst working on the marketing analyst team at Bellabeat, a high-tech manufacturer of health-focused products for women. Bellabeat is a successful small company, but they have the potential to become a larger player in the global smart device market. The cofounder and Chief Creative Officer of Bellabeat, believes that analyzing smart device fitness data could help unlock new growth opportunities for the company. You have been asked to focus on one of Bellabeat’s products and analyze smart device data to gain insight into how consumers are using their smart devices. The insights you discover will then help guide marketing strategy for the company. You will present your analysis to the Bellabeat executive team along with your high-level recommendations for Bellabeat’s marketing strategy.
 
-###### Products
+#### Products
 
 - Bellabeat app provides users with health data related to their activity, sleep, stress, menstrual cycle, and mindfulness habits.
 - Leaf tracker connects to the Bellabeat app to track activity, sleep, and stress.
@@ -63,7 +63,7 @@ You are a junior data analyst working on the marketing analyst team at Bellabeat
 
  The [Public Dataset](https://www.kaggle.com/datasets/arashnic/fitbit) we used was made available through [Mobius.]( https://www.kaggle.com/arashnic) This Kaggle data set contains personal fitness tracker from thirty fitbit users.
  
- #### Cleaning the data
+#### Cleaning the data
 
 Our data contains daily activity logs which includes number of steps done, how long the user asleep in minutes, weight tracker and Calories burned. I downloaded the files put the daily , per minutes and per hour tracker files into different folders. I pullout the files and noted what data it contains.
 
@@ -73,9 +73,7 @@ library('readr')
 library('dplyr')
 library('tidyverse')
 ```
-> I already installed this libraries before. load the libraries for Cleaning
-
-> I like to use read_csv function instead of just the read.csv
+> load data cleaning, ggplot and readr libraries
 
 ```
 setwd("C:/Case Study 2/daily")
