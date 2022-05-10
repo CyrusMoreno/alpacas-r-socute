@@ -74,6 +74,7 @@ library('dplyr')
 library('tidyverse')
 ```
 > I already installed this libraries before. load the libraries for Cleaning
+
 > I like to use read_csv function instead of just the read.csv
 
 ```
@@ -82,6 +83,7 @@ dailyactivity <- read_csv("dailyActivity_merged.csv")
 sleepDay <- read_csv("sleepDay_merged.csv")
 ```
 >dailyactivity has  Rows: 940 Columns: 15 Columns specs: chr  (1): ActivityDate dbl (14): Id,...
+
 >sleepDay has  Rows: 413 Columns: 5 Columns specs: chr  (1): SleepDay dbl (4): Id,...
 
 Here is how the graph looks like for [Daily Total Calories burned vs Total Steps done.](/calvssteps.pdf)
