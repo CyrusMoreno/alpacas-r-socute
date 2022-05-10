@@ -4,9 +4,9 @@ First of all, thank you for taking time to read my page.
 
 Let me start off by saying, I love Data Science. 
 
-Before I too [Course](https://www.coursera.org/professional-certificates/google-data-analytics), understanding data importance to digital marketing it a bit tough to grasp. 
+Before I started this [Course](https://www.coursera.org/professional-certificates/google-data-analytics), understanding the importance of data in business like digital marketing I am unsure of. 
 
-I am curious on how can someone make money out data of me liking meme pictures on the internet, and searching for pc gaming related topics. Now, it all make sense.
+I am curious on how someone can make money out data of me liking meme pictures on the internet, and searching for pc gaming related topics. Now, it all make sense.
 
 As you may know, adult life are made of big decisions, most are yours to decide on while some decisions may have to be made by others for you.
 
