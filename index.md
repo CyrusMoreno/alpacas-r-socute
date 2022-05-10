@@ -62,3 +62,27 @@ You are a junior data analyst working on the marketing analyst team at Bellabeat
 - Find out how this trends would influence Bellabeat marketing strategy
 
  The [Public Dataset](https://www.kaggle.com/datasets/arashnic/fitbit) we used was made available through [Mobius.]( https://www.kaggle.com/arashnic) This Kaggle data set contains personal fitness tracker from thirty fitbit users.
+ 
+ #### Cleaning the data
+
+Our data contains daily activity logs which includes number of steps done, how long the user asleep in minutes, weight tracker and Calories burned. I downloaded the files put the daily , per minutes and per hour tracker files into different folders. I pullout the files and noted what data it contains.
+
+I want to see what the calorie vs total steps
+```
+library('readr')
+library('dplyr')
+library('tidyverse')
+```
+> I already installed this libraries before. load the libraries for Cleaning
+> I like to use read_csv function instead of just the read.csv
+
+```
+setwd("C:/Case Study 2/daily")
+dailyactivity <- read_csv("dailyActivity_merged.csv")
+sleepDay <- read_csv("sleepDay_merged.csv")
+```
+>dailyactivity has  Rows: 940 Columns: 15 Columns specs: chr  (1): ActivityDate dbl (14): Id,...
+>sleepDay has  Rows: 413 Columns: 5 Columns specs: chr  (1): SleepDay dbl (4): Id,...
+
+Here is how the graph looks like for [Daily Total Calories burned vs Total Steps done.](/calvssteps.pdf)
+ 
