@@ -128,4 +128,5 @@ ggplot(TotalDailyCalBurnedVSTotalStepsMade, aes(x=TotalSteps, y=Calories, colour
 ![Daily Total Calories burned vs Total Steps](/TCalvsTSteps.jpg)
 
 
-Here is how the graph looks like for Daily Total Calories burned vs Total Steps done. 
+**Daily Total Calories burnt vs Total Steps done** 
+[pdf link](/cs1insights.pdf)
