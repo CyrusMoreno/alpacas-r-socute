@@ -126,5 +126,6 @@ We plot TotalStep versus Calories Burned
 ggplot(TotalDailyCalBurnedVSTotalStepsMade, aes(x=TotalSteps, y=Calories, colour=TotalMinutesAsleep ))+ geom_point()
 ```
 ![Daily Total Calories burned vs Total Steps](/TCalvsTSteps.jpg)
-Here is how the graph looks like for [Daily Total Calories burned vs Total Steps done.](/calvssteps.pdf)
 
+
+Here is how the graph looks like for Daily Total Calories burned vs Total Steps done. 
