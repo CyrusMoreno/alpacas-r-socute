@@ -131,3 +131,12 @@ ggplot(TotalDailyCalBurnedVSTotalStepsMade, aes(x=TotalSteps, y=Calories, colour
 **Daily Total Calories burnt vs Total Steps done** 
 
 [pdf link](/calvssteps.pdf)
+
+
+We also plot each users' device usage.
+![user](/users/file_show1503960366.jpg)
+
+
+
+
+
