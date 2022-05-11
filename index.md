@@ -40,7 +40,7 @@ I uploaded csv file to google sheets.
 
 > The data has been made available by Motivate International Inc. under this [license](https://ride.divvybikes.com/data-license-agreement)
 
-[Here is the to my insights](/cs1insights.pdf)
+[Here is the to my insights](/https://docs.google.com/spreadsheets/d/1LmRp2E03ojuqh9lRAWsFRa3cL09ZOiCUb7GBMht_5ic/edit#gid=1618269384)
 
 
 ### Case 2: How can a wellness company play it smart?
