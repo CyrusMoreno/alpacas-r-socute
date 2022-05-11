@@ -65,15 +65,22 @@ You are a junior data analyst working on the marketing analyst team at Bellabeat
  
 #### Cleaning the data
 
-Our data contains daily activity logs which includes number of steps done, how long the user asleep in minutes, weight tracker and Calories burned. I downloaded the files put the daily , per minutes and per hour tracker files into different folders. I pullout the files and noted what data it contains.
+Our data contains daily activity logs which includes number of steps, total sleep in minutes, a weight tracker and total calories burnt.
 
-I want to see what the calorie vs total steps
+Downloaded the data unto my hard drive. 
+
+Organize and put them into different folders.
+
+We start with things that user keeps track daily: Calorie, total steps and Sleep.
+Then will check weight, heart rate and type of activity.  
 ```
 library('readr')
 library('dplyr')
 library('tidyverse')
 ```
-> load data cleaning, ggplot and readr libraries
+> I already installed this libraries before. load the libraries for Cleaning
+
+> I like to use read_csv function instead of just the read.csv
 
 ```
 setwd("C:/Case Study 2/daily")
@@ -84,5 +91,39 @@ sleepDay <- read_csv("sleepDay_merged.csv")
 
 >sleepDay has  Rows: 413 Columns: 5 Columns specs: chr  (1): SleepDay dbl (4): Id,...
 
+Summary statistics
+```
+TotalDailyCalBurnedVSTotalStepsMade <- merge(DailyActivityMerge, DailyEPMerge, by="Id")
+
+TotalDailyCalBurnedVSTotalStepsMade %>%
+select(TotalSteps,
+Calories,
+TotalMinutesAsleep) %>%
+summary()
+
+TotalSteps       Calories    TotalMinutesAsleep
+ Min.   :    0   Min.   :   0   Min.   : 58.0     
+ 1st Qu.: 4660   1st Qu.:1783   1st Qu.:361.0     
+ Median : 8596   Median :2162   Median :432.0     
+ Mean   : 8117   Mean   :2329   Mean   :419.4     
+ 3rd Qu.:11317   3rd Qu.:2865   3rd Qu.:492.0     
+ Max.   :22988   Max.   :4900   Max.   :796.0   
+
+```
+
+we also check how many users in this merge
+```
+n_distinct(TotalDailyCalBurnedVSTotalStepsMade$Id)
+
+[1] 24
+```
+>you can also see all ids by replacing n_distinct with unique function
+
+>the function merges the data sets by the common column names, in this case, we use the 'Id'
+
+We plot TotalStep versus Calories Burned
+```
+ggplot(TotalDailyCalBurnedVSTotalStepsMade, aes(x=TotalSteps, y=Calories, colour=TotalMinutesAsleep ))+ geom_point()
+```
 Here is how the graph looks like for [Daily Total Calories burned vs Total Steps done.](/calvssteps.pdf)
- 
+
