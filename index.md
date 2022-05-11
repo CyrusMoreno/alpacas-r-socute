@@ -134,6 +134,7 @@ ggplot(TotalDailyCalBurnedVSTotalStepsMade, aes(x=TotalSteps, y=Calories, colour
 
 
 We also plot each users' device usage.
+
 ![user](/users/file_show1503960366.jpg)
 
 
