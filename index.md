@@ -20,7 +20,7 @@ To showcase what I have learned, below are some case studies I have completed in
 
 ## Google Data Analytics Capstone: Complete a Case Study
 
-### Case 1: How does a bike-share navigate speedy success?
+## Case 1: How does a bike-share navigate speedy success?
 
 
 #### Scenario
@@ -58,7 +58,7 @@ Click import data button
 
 > I use R console to explore the datasets
 
-load csv file to R
+Load csv file to R
 ```
 library('readr')
 library('dplyr')
@@ -137,11 +137,11 @@ On empty column, name it with "mode_of_dow"
 
 #### Visualization
 
-I created a pivot table and create a simple graph.
+Create a pivot table with simple graph.
 
 [Here is the link](https://docs.google.com/spreadsheets/d/e/2PACX-1vTMrhAzXjSeSafdl4ftPo5M9Y-xfIS36hsKU6GUtLkxcy6FtR1cHB41deUxOd20WloSOoZVXx7krfa7/pubhtml?gid=1618269384&single=true)
 
-In the pivot table, I also include all total ride for day in week.
+In this pivot table, I include all total ride for days in week.
 
 Based on Bike Rides - April 2020,  the number of casual ride never exceeds 5000 while member rides consistently exceeds that number. Sundays have the highest volume for all two groups while Wednesday ride volume it lowest.  
 
@@ -151,9 +151,7 @@ Cyclistic should promote adaptation of healthier city travel lifestyle on their 
 
 
 
-
-
-### Case 2: How can a wellness company play it smart?
+## Case 2: How can a wellness company play it smart?
 
 #### Scenario
 You are a junior data analyst working on the marketing analyst team at Bellabeat, a high-tech manufacturer of health-focused products for women. Bellabeat is a successful small company, but they have the potential to become a larger player in the global smart device market. The cofounder and Chief Creative Officer of Bellabeat, believes that analyzing smart device fitness data could help unlock new growth opportunities for the company. You have been asked to focus on one of Bellabeat’s products and analyze smart device data to gain insight into how consumers are using their smart devices. The insights you discover will then help guide marketing strategy for the company. You will present your analysis to the Bellabeat executive team along with your high-level recommendations for Bellabeat’s marketing strategy.
