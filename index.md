@@ -22,6 +22,7 @@ To showcase what I have learned, below are some case studies I have completed in
 
 ### Case 1: How does a bike-share navigate speedy success?
 
+
 #### Scenario
 You are a junior data analyst working in the marketing analyst team at Cyclistic, a bike-share company in Chicago. The director of marketing believes the company's future success depends on maximizing the number of annual memberships. Therefore, your team wants to understand how casual riders and annual members use Cyclistic bikes differently. From these insights, your team will design a new marketing strategy to convert casual riders into annual members. But first, Cyclistic executives must apporove your recommendations, so they must be backed up with compelling data insights and professional data visualizations.
 
@@ -40,7 +41,107 @@ I uploaded csv file to google sheets.
 
 > The data has been made available by Motivate International Inc. under this [license](https://ride.divvybikes.com/data-license-agreement)
 
+#### Cleaning the data
+
+Downloaded  202004-divvy-tripdata.zip
+
+Extract and upload 202004-divvy-tripdata.csv
+```
+Go to Google sheets
+Go to File > select Import > select Import file
+Click on "select a file from your device"
+For import location, select "Replace current sheets"
+For Separator type, leave it at "Detect automatically"
+Click import data button
+```
+> Google sheets would sometime stop working when using certain functions
+
+> I use R console to explore the datasets
+
+load csv file to R
+```
+library('readr')
+library('dplyr')
+library('tidyverse')
+
+Divvy <- read_csv("202004-divvy-tripdata.csv")
+Rows: 84776 Columns: 13
+-- Column specification ------------------------------------------------
+chr  (5): ride_id, rideable_type, start_station_name, end_station_name, mem...
+dbl  (6): start_station_id, end_station_id, start_lat, start_lng, end_lat, ...
+dttm (2): started_at, ended_at
+```
+
+rider_id are 84776 random unique 16-character
+```
+n_distinct(Divvy$ride_id)
+
+[1] 84776
+```
+
+> ride_id doesn't belong a customer account and use a reference to a ride trip
+
+Delete redundant column
+```
+n_distinct(Divvy$rideable_type)
+
+[1] 1
+```
+
+> all rideable_type are char "docked_bike"
+
+Make sure that the format is correct
+```
+Back in Google Sheets
+Select "started_at" column
+On top tool bar, select "More format"
+On "More format" dropdown, select date
+Do same think on "ended_at"
+```
+
+Create a column to get the duration
+```
+Select header "ended_at" column 
+Right click then select "Insert 1 column right"
+Named new column "ride_length"
+On D2, put =C2-B2
+Apply formula for reminder cell in that column   
+```
+
+Create a column to get the day of week
+```
+Select header "ride_length" column 
+Right click then select "Insert 1 column right"
+Named new column "day_of_week"
+On D2, put =WEEKDAY(B2,1)
+Apply formula for reminder cell in that column   
+```
+
+Create a column to get the day of week
+```
+Select "member_casual" column
+On the toolbar, click on "Create a filter" button
+Toggle the filter in "member_casual" header
+On the dropdown, select "Clear" button
+Then select and put check on "member". Press ok
+Create another empty column name it "ave_ride_length_member"
+Under "ave_ride_length_member" cell, enter =AVERAGE(All ride_length)
+Repeat process but this time for "ave_rider_length_casual"
+```
+
+Create a column to get the mode day of week
+```
+On empty column, name it with "mode_of_dow"
+2nd cell under the header, enter "=MODE(day_of_week column)"
+```
+
+#### Visualization
+
+I created a pivot table and create a simple graph.
+
 [Here is the to my insights](https://docs.google.com/spreadsheets/d/e/2PACX-1vTMrhAzXjSeSafdl4ftPo5M9Y-xfIS36hsKU6GUtLkxcy6FtR1cHB41deUxOd20WloSOoZVXx7krfa7/pubhtml?gid=1618269384&single=true)
+
+#### Takeaways
 
 
 ### Case 2: How can a wellness company play it smart?
