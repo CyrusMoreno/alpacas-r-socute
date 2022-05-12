@@ -192,3 +192,10 @@ You can also see the trend for other users below:
 [user 8053475328](/users/file_show8053475328.jpg)
 [user 8378563200](/users/file_show8378563200.jpg)
 [user 8792009665](/users/file_show8792009665.jpg)
+
+*The device user 1503960366 has an upward trend and there is no indication that our user is overworked.
+This trend is similar to other users. It is also important to note that our device detected and count how long a user remain on rest to high activity.
+
+#### Takeaways
+The selling points here is that it effective in helping user to adapt a healthier and active lifestyle without affecting what you want to do in your life.
+
