@@ -124,7 +124,7 @@ TotalSteps       Calories    TotalMinutesAsleep
 
 >TotalDailyCalBurnedVSTotalStepsMade includes user who have done light, moderate, very active and on rest activity.
 
-In this merge we, we see 24 users
+This has 24 users
 ```
 n_distinct(TotalDailyCalBurnedVSTotalStepsMade$Id)
 
@@ -133,6 +133,12 @@ n_distinct(TotalDailyCalBurnedVSTotalStepsMade$Id)
 >you can also see all ids by replacing n_distinct with unique function
 
 >the function merges the data sets by the common column names, in this case, we use the 'Id'
+
+not a single user have missed sleep
+```
+unique(TotalDailyCalBurnedVSTotalStepsMade$TotalSleepRecords)
+[1] 1 2 3
+```
 
 Plot Daily Total Calories burnt vs Total Steps done
 ```
@@ -193,9 +199,10 @@ You can also see the trend for other users below:
 [user 8378563200](/users/file_show8378563200.jpg)
 [user 8792009665](/users/file_show8792009665.jpg)
 
-*The device user 1503960366 has an upward trend and there is no indication that our user is overworked.
-This trend is similar to other users. It is also important to note that our device detected and count how long a user remain on rest to high activity.
+*The device user 1503960366 have an upward trend and there is no indication that the user had missed rest in any day.
 
-#### Takeaway
-The selling point here is that it effective in helping user to adapt a healthier and active lifestyle without affecting what they want to do in your life.
+Similar trends have been seen on other users' device usage. It is also important to note that our device detected and count how long a user remain on rest including up to high activity.
+
+#### Takeaways
+The best selling points here is that our device helps users to adapt a healthier and active lifestyle without affecting what they want to do in life.
 
