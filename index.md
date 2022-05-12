@@ -260,7 +260,7 @@ ggplot(TotalDailyCalBurnedVSTotalStepsMade, aes(x=TotalSteps, y=Calories, colour
 [pdf link](/calvssteps.pdf)
 
 
-Now, let take a look on individual user trend
+Now, let us take a look on individual user trend
 ```
 unique(TotalDailyCalBurnedVSTotalStepsMade$Id)
 [1] 1503960366 1644430081 1844505072 1927972279 2026352035 2320127002
