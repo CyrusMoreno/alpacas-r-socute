@@ -191,4 +191,4 @@ You can also see the trend for other users below:
 [user 7086361926](/users/file_show7086361926.jpg)
 [user 8053475328](/users/file_show8053475328.jpg)
 [user 8378563200](/users/file_show8378563200.jpg)
-[user 8792009665](/users/file_show8792009665jpg)
+[user 8792009665](/users/file_show8792009665.jpg)
