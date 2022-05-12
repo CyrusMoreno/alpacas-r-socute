@@ -165,7 +165,7 @@ combined_data %>% filter(  Id=="1503960366") %>% ggplot(aes(TotalSteps,Calories,
 	labs(title="Device Usage")
 ```
 
-Here what it looks like
+Here how it looks like
 
 ![user](/users/file_show1503960366.jpg)
 
