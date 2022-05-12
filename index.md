@@ -72,7 +72,7 @@ dbl  (6): start_station_id, end_station_id, start_lat, start_lng, end_lat, ...
 dttm (2): started_at, ended_at
 ```
 
-rider_id are 84776 random unique 16-character
+rider_id are 84776 random unique 16-character values
 ```
 n_distinct(Divvy$ride_id)
 
