@@ -141,7 +141,16 @@ I created a pivot table and create a simple graph.
 
 [Here is the link](https://docs.google.com/spreadsheets/d/e/2PACX-1vTMrhAzXjSeSafdl4ftPo5M9Y-xfIS36hsKU6GUtLkxcy6FtR1cHB41deUxOd20WloSOoZVXx7krfa7/pubhtml?gid=1618269384&single=true)
 
+In the pivot table, I also include all total ride for day in week.
+
+Based on Bike Rides - April 2020,  the number of casual ride never exceeds 5000 while member rides consistently exceeds that number. Sundays have the highest volume for all two groups while Wednesday ride volume it lowest.  
+
 #### Takeaways
+
+Cyclistic should promote adaptation of healthier city travel lifestyle on their social media. They may take advantage of putting add usual destination close to their bike stations particularly the one mostly used during Sundays. 
+
+
+
 
 
 ### Case 2: How can a wellness company play it smart?
