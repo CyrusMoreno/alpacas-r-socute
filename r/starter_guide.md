@@ -4,7 +4,7 @@
 
 It seems that some functions' documentation aren't readily available[^1].
 
-### Lets start with cool stuff
+### Neat stuff
 
 [Find out what dataset readily available](https://www.rdocumentation.org/packages/utils/versions/3.6.2/topics/data)
 ```
