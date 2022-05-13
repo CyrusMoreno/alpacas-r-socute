@@ -13,7 +13,7 @@ data()
 
 ### File navigation
 
-[Here is the version of R I am using](https://www.rdocumentation.org/packages/base/versions/3.6.2/topics/R.Version)
+[How to check your R version](https://www.rdocumentation.org/packages/base/versions/3.6.2/topics/R.Version)
 ```
 R.version
 
