@@ -6,12 +6,9 @@ You can also find me in:
 - [Twitter](https://twitter.com/CyrusEMoreno)
 
 ## Table Of Contents
-Intro to data science
-   - First nested list item
-     - Second nested list item
 
 Learning R
-   - First nested list item
+   - [Quick Start](/r/starter_guide.md)
      - Second nested list item
 
 Learning Google sheet
