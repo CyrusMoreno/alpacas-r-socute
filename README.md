@@ -8,7 +8,7 @@ You can also find me in:
 ## Table Of Contents
 
 Learning R
-   - [Quick Start](/r/starter_guide.md)
+   - [Quick Starter](/r/starter_guide.md)
      - Second nested list item
 
 Learning Google sheet
