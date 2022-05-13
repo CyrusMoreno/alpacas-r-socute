@@ -5,7 +5,7 @@ You can also find me in:
 - [Kaggle](https://www.kaggle.com/cyrusmoreno)
 - [Twitter](https://twitter.com/CyrusEMoreno)
 
-## Table Of Content
+## Table Of Contents
 Intro to data
    - First nested list item
      - Second nested list item
