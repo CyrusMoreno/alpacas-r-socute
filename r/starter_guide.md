@@ -6,7 +6,7 @@ It seems that some functions' documentation aren't readily available[^1].
 
 ### Neat stuff
 
-[Find out what dataset readily available](https://www.rdocumentation.org/packages/utils/versions/3.6.2/topics/data)
+[List all dataset](https://www.rdocumentation.org/packages/utils/versions/3.6.2/topics/data)
 ```
 data()
 ```
@@ -35,21 +35,20 @@ dataframe_name_you_want<-read.csv("filename")
 ```
 > you can also use read_csv but this require loading readr package
 
-> you need to be in the correct working directory to before you can use this
-
+> you need to be in the correct working directory to before you can use this 
 ### Data exploration
 
 [Inspecting your data](https://www.rdocumentation.org/packages/dplyr/versions/0.3/topics/glimpse)
 ```
 glimpse(dataframe)
 ```
-> let you see column names and their type
+> let you see column names and their type 
 
 [Check first row and last row](https://www.rdocumentation.org/packages/utils/versions/3.6.2/topics/head)
 ```
 head(dataframe)
 tail(dataframe)
-```
+``` 
 
 [Display the column names](https://www.rdocumentation.org/packages/gpuR/versions/2.0.3/topics/colnames)
 ```
