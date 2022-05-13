@@ -73,4 +73,4 @@ n_distinct(vector)
 
 ***[Go back to README.md](/README.md)***
 
-[^1]: [R documentation website] (https://www.rdocumentation.org/)
+[^1]: for more info, go to https://www.rdocumentation.org/
