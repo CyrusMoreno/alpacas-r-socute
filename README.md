@@ -4,4 +4,4 @@ You can also find me in:
 - [LinkenIn](https://www.linkedin.com/in/cyrusemoreno/)
 - [Kaggle](https://www.kaggle.com/cyrusmoreno)
 - [Twitter](https://twitter.com/CyrusEMoreno)
-- [Open](/r.html)
+
