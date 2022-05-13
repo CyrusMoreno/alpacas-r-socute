@@ -60,7 +60,7 @@ colnames(dataframe)
 ```
 unique(vector)
 ```
-> vector is the df$column_name
+> where vector is equal to df$column_name
 
 [How count the number of unique values in a set of vector](https://www.rdocumentation.org/packages/dplyr/versions/0.7.8/topics/n_distinct)
 ```
