@@ -6,7 +6,7 @@ You can also find me in:
 - [Twitter](https://twitter.com/CyrusEMoreno)
 
 ## Table Of Contents
-Intro to data
+Intro to data science
    - First nested list item
      - Second nested list item
 
