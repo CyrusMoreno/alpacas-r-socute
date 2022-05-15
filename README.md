@@ -7,7 +7,7 @@ You can also find me on:
 
 ## Table Of Contents
 - Introduction
-- [What am I doing now?](/projects.md)
+- [What I am doing now?](/projects.md)
 - Learning R
    - [Quick Reference](/r/quick_ref.md)
 
