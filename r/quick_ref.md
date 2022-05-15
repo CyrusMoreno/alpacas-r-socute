@@ -49,13 +49,13 @@ glimpse(dataframe)
 ```
 head(dataframe)
 tail(dataframe)
-```
+``` 
 
-
-####### Display the column names [:thought_balloon:](https://www.rdocumentation.org/packages/gpuR/versions/2.0.3/topics/colnames)
+  
+###### Display the column names [:thought_balloon:](https://www.rdocumentation.org/packages/gpuR/versions/2.0.3/topics/colnames)
 ```
 colnames(dataframe)
-```
+``` 
 
 ###### Show all non-repeated value in a column [:thought_balloon:](https://www.rdocumentation.org/packages/base/versions/3.6.2/topics/unique)
 ```
@@ -63,6 +63,7 @@ unique(vector)
 ```
 
 > where vector is equal to df$column_name
+ 
 
 ###### How count the number of unique values in a set of vector [:thought_balloon:](https://www.rdocumentation.org/packages/dplyr/versions/0.7.8/topics/n_distinct)
 ```
