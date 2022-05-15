@@ -2,7 +2,7 @@
 
 I started dabbling with arts of computer programming along tife ago. The language I use it Java. I remember when I first bought my book that includes a cd installer for Java. But for data sciene will be using Python. It is an interpreted, object-oriented, high-level programming language with dynamic semantics [^site] and it will give us access to data analysis and manipulation tool [Pandas](https://pandas.pydata.org/).
 
-## Quick Starter comparing to R
+## Pandas Quick Reference
 
 I want to compare Pandas to R. I base this to [Comparison with R / R libraries](https://pandas.pydata.org/docs/getting_started/comparison/comparison_with_r.html#compare-with-r)
 
