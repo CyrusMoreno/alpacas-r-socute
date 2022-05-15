@@ -8,6 +8,7 @@ You can also find me on:
 ## Table Of Contents
 - Introduction
 - [What I am doing now?](/projects.md)
+- [Know your data](/kyd.md)
 - Learning R
    - [Quick Reference](/r/quick_ref.md)
 
