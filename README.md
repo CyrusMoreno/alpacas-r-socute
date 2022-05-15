@@ -10,15 +10,12 @@ You can also find me on:
 - [What am I doing now?](/projects.md)
 - Learning R
    - [Quick Reference](/r/quick_ref.md)
-     - Second nested list item
 
 - Learning Google sheet
-   - First nested list item
-     - Second nested list item
+   - [Quick Reference](/gs/quick_ref.md)
 
 - Learning Python Machine Learning
    - [Quick Reference](/py/quick_ref.md)
-     - Second nested list item
 
 - Learning Relational Database
    - First nested list item
