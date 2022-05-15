@@ -17,7 +17,7 @@ You can also find me on:
 - Learning Pandas
    - [Quick Reference](/py/quick_ref.md)
 
-- Learning Relational Database
+- SQL and Data Analytics
    - [PostgreSQL](/sql/quick_ref.md)
 
 - [Data Visualization](/viz/viz.md)
