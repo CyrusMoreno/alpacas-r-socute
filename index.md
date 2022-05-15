@@ -43,9 +43,9 @@ I uploaded csv file to google sheets.
 
 #### Cleaning the data
 
-Downloaded  202004-divvy-tripdata.zip
+Downloaded  202004-divvy-tripdata.zip.
 
-Extract and upload 202004-divvy-tripdata.csv
+Extract and upload 202004-divvy-tripdata.csv.
 ```
 Go to Google sheets
 Go to File > select Import > select Import file
@@ -58,7 +58,7 @@ Click import data button
 
 > I use R console to explore the datasets
 
-Load csv file to R
+Load csv file to R.
 ```
 library('readr')
 library('dplyr')
@@ -72,7 +72,7 @@ dbl  (6): start_station_id, end_station_id, start_lat, start_lng, end_lat, ...
 dttm (2): started_at, ended_at
 ```
 
-rider_id are 84776 random unique 16-character values
+rider_id are 84776 random unique 16-character values.
 ```
 n_distinct(Divvy$ride_id)
 
@@ -81,7 +81,7 @@ n_distinct(Divvy$ride_id)
 
 > ride_id doesn't belong a customer account and use a reference to a ride trip
 
-Delete redundant column
+Delete redundant column.
 ```
 n_distinct(Divvy$rideable_type)
 
@@ -90,7 +90,7 @@ n_distinct(Divvy$rideable_type)
 
 > all rideable_type are char "docked_bike"
 
-Make sure that the format is correct
+Make the data is properly formatted.
 ```
 Back in Google Sheets
 Select "started_at" column
@@ -99,7 +99,7 @@ On "More format" dropdown, select date
 Do same think on "ended_at"
 ```
 
-Create a column to get the duration
+Create a column to get the duration.
 ```
 Select header "ended_at" column 
 Right click then select "Insert 1 column right"
@@ -108,7 +108,7 @@ On D2, put =C2-B2
 Apply formula for reminder cell in that column   
 ```
 
-Create a column to get the day of week
+Create a column to get the day of week.
 ```
 Select header "ride_length" column 
 Right click then select "Insert 1 column right"
@@ -117,7 +117,7 @@ On D2, put =WEEKDAY(B2,1)
 Apply formula for reminder cell in that column   
 ```
 
-Create a column to get the day of week
+Compute for average ride lenght for members and casuals.
 ```
 Select "member_casual" column
 On the toolbar, click on "Create a filter" button
@@ -185,19 +185,16 @@ Downloaded the data unto my hard drive.
 
 Organize and put them into different folders.
 
-I need to filter out data to see individual treands but I want to see the bigger picture first  
+Load libraries.
 ```
 library('readr')
 library('dplyr')
 library('tidyverse')
 ```
-> I already installed this libraries before. load the libraries for cleaning
-
-> load the libraries for cleaning, ggplot and readr for read_csv function
-
 > I am using just the r console
 
-load the csv data to R
+
+Load the csv.
 ```
 setwd("C:/Case Study 2/daily")  
 dailyactivity <- read_csv("dailyActivity_merged.csv")
@@ -207,9 +204,9 @@ sleepDay <- read_csv("sleepDay_merged.csv")
 
 >sleepDay has  Rows: 413 Columns: 5 Columns specs: chr  (1): SleepDay dbl (4): Id,...
 
-> SleepDay_merged.csv data contains the daily number of sleep count and total minutes asleep per day
+>SleepDay_merged.csv data contains the daily number of sleep count and total minutes asleep per day
 
-Merge and show some summary statistics
+Merge data and show some summary statistics
 ```
 TotalDailyCalBurnedVSTotalStepsMade <- merge(DailyActivityMerge, DailyEPMerge, by="Id")
 
@@ -232,7 +229,7 @@ TotalSteps       Calories    TotalMinutesAsleep
 
 >TotalDailyCalBurnedVSTotalStepsMade includes user who have done light, moderate, very active and on rest activity.
 
-This has 24 users
+It has 24 users.
 ```
 n_distinct(TotalDailyCalBurnedVSTotalStepsMade$Id)
 
@@ -260,7 +257,7 @@ ggplot(TotalDailyCalBurnedVSTotalStepsMade, aes(x=TotalSteps, y=Calories, colour
 [pdf link](/calvssteps.pdf)
 
 
-Now, let us take a look on individual user trend
+Now, let us take a look on individual user trend.
 ```
 unique(TotalDailyCalBurnedVSTotalStepsMade$Id)
 [1] 1503960366 1644430081 1844505072 1927972279 2026352035 2320127002
@@ -281,7 +278,7 @@ combined_data %>% filter(  Id=="1503960366") %>% ggplot(aes(TotalSteps,Calories,
 
 #### Visualization
 
-Here how it looks like
+Here is how it looks for user 1503960366:
 
 ![user](/users/file_show1503960366.jpg)
 
