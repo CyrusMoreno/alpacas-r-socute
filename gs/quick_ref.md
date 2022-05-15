@@ -2,7 +2,7 @@
 
 ## Quick Reference
 
-More guide available here[^1] but I noted some for quick reference.
+More guide available here[^1] but I have noted some for quick reference.
 
 
 ### Querying, filtering, sampling and sorting
