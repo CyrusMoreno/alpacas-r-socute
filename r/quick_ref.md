@@ -121,7 +121,7 @@ sample_n(df, 10)
 ```
 sample_frac(df, 0.01)
 ```
-**### Sorting
+### Sorting
 
 ### Transforming
 
