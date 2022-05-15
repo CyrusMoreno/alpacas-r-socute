@@ -1,8 +1,9 @@
 ***[Go back to README.md](/README.md)***
 
-### What I am doing now?
+### My Projects
 
-*** Github page  ***
+
+**Github page**
 - [x] complete my course' case study
 - [x] add my linkedln, twitter and kaggle link on my github page.
 - [ ] gather what we learn in one page
