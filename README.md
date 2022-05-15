@@ -6,19 +6,19 @@ You can also find me in:
 - [Twitter](https://twitter.com/CyrusEMoreno)
 
 ## Table Of Contents
-
-Learning R
+- Introduction
+- Learning R
    - [Quick Reference](/r/quick_ref.md)
      - Second nested list item
 
-Learning Google sheet
+- Learning Google sheet
    - First nested list item
      - Second nested list item
 
-Learning Python Machine Learning
+- Learning Python Machine Learning
    - [Quick Reference](/py/quick_ref.md)
      - Second nested list item
 
-Learning Relational Database
+- Learning Relational Database
    - First nested list item
      - Second nested list item
