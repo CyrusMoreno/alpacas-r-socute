@@ -31,7 +31,7 @@ Like connecting the dot. Cause - effect relationship in the data.
 
 Looking for trends that my answer a business problem
 
-### How not to ask question
+### How not to ask questions
 - asking Leading questions
 - closed-ended questions
 - vague or non-specific to what we try to find out
