@@ -76,9 +76,6 @@ df.sample(frac=0.01)
 
 
 
-A footnote can also have multiple lines[^2].  
-
-You can also use words, to fit your writing style more closely[^note].
 
 ***[Go back to README.md](/README.md)***
 
