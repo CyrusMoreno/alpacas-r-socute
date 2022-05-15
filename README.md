@@ -16,7 +16,7 @@ Learning Google sheet
      - Second nested list item
 
 Learning Python Machine Learning
-   - [Quick Reference](/py/quik_ref.md)
+   - [Quick Reference](/py/quick_ref.md)
      - Second nested list item
 
 Learning Relational Database
