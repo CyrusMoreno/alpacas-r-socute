@@ -3,7 +3,7 @@
 ### Data analysts typically work with six problem types
 
 #### Making predictions
- Example of Industry Problems that use predictive analysis [^1]
+ Example of industry problems that use predictive analysis [^1]
  - Automotive new technology emerging
  - Aerospace a real-time analytics application to predict subsystem performance
  - Energy Production predicting electricity price and demand
