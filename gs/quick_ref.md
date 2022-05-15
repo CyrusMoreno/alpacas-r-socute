@@ -19,7 +19,7 @@ More guide available here[^1] but I have noted some for quick reference.
 
 - [See the sum & average](https://support.google.com/docs/answer/66032?hl=en&ref_topic=9054531#zippy=%2Csee-an-example)
 - [QUERY function](https://support.google.com/docs/answer/3093343?hl=en&ref_topic=9054531)
-- [IF functiont](https://support.google.com/docs/answer/3093364?hl=en&ref_topic=9054531)[^2]
+- [IF function](https://support.google.com/docs/answer/3093364?hl=en&ref_topic=9054531)[^2]
 
 
 ### Grouping and summarizing
