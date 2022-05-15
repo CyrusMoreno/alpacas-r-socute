@@ -34,7 +34,7 @@ Looking for trends that my answer a business problem
 ### How not to ask questions
 - asking Leading questions
 - closed-ended questions
-- vague or non-specific to what we try to find out
+- vague or non-specific to what we are trying to find
 
 
 ***[Go back to README.md](/README.md)***
