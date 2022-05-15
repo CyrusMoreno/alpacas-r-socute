@@ -14,7 +14,7 @@ You can also find me on:
 - Learning Google sheet
    - [Quick Reference](/gs/quick_ref.md)
 
-- Learning Python Machine Learning
+- Learning Pandas
    - [Quick Reference](/py/quick_ref.md)
 
 - Learning Relational Database
