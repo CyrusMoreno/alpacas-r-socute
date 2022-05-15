@@ -30,5 +30,5 @@ More guide available here[^1] but I took some for our quick reference.
 
 ***[Go back to README.md](/README.md)***
 
-[^1]: Google Docs Editors Help page https://support.google.com/docs/topic/9054603?hl=en&ref_topic=1382883
+[^1]: Google Docs Editors Help [page](https://support.google.com/docs/topic/9054603?hl=en&ref_topic=1382883)
 [^2]: More Google Sheets function [here](https://support.google.com/docs/table/25273?hl=en&ref_topic=9054531)
