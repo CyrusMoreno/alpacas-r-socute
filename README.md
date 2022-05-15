@@ -8,7 +8,7 @@ You can also find me in:
 ## Table Of Contents
 
 Learning R
-   - [Quick Starter](/r/starter_guide.md)
+   - [Quick Reference](/r/quick_ref.md)
      - Second nested list item
 
 Learning Google sheet
@@ -16,7 +16,7 @@ Learning Google sheet
      - Second nested list item
 
 Learning Python Machine Learning
-   - First nested list item
+   - [Quick Reference](/py/quik_ref.md)
      - Second nested list item
 
 Learning Relational Database
