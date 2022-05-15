@@ -2,7 +2,7 @@
 
 ## Quick Reference
 
-More guide available here[^1] but I have noted some for quick reference.
+More guide available here[^1] but I have noted some for quick reference. For excel, use [this](https://support.microsoft.com/en-us/office/formulas-and-functions-294d9486-b332-48ed-b489-abe7d0f9eda9?ui=en-US&rs=en-US&ad=US#id0eaabaaa=errors&ID0EBBD=Functions)
 
 
 ### Querying, filtering, sampling and sorting
