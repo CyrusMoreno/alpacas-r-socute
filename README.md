@@ -18,7 +18,6 @@ You can also find me on:
    - [Quick Reference](/py/quick_ref.md)
 
 - Learning Relational Database
-   - First nested list item
-     - Second nested list item
+   - [PostgreSQL](/sql/quick_ref.md)
 
 - [Data Visualization](/viz/viz.md)
