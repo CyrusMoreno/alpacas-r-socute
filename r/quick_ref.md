@@ -1,6 +1,6 @@
 ***[Go back to README.md](/README.md)***
 
-## Quick Starter
+## Quick Reference
 
 It seems that some functions' documentation aren't readily available[^1].
 
