@@ -6,7 +6,7 @@
 **Github page**
 - [x] complete my course' case study
 - [x] add my linkedln, twitter and kaggle link on my github page.
-- [ ] gather what we learn in one page
+- [ ] gather what I learn in one page
 
 > Putting it all together - started May 15,2022
 
