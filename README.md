@@ -12,7 +12,7 @@ You can also find me on:
 - Learning R
    - [Quick Reference](/r/quick_ref.md)
 
-- Learning Google sheet
+- Spreadsheet and Data Analytics
    - [Quick Reference](/gs/quick_ref.md)
 
 - Learning Pandas
