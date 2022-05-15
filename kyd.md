@@ -2,7 +2,7 @@
 
 ### Data analysts typically work with six problem types
 
-###### Making predictions
+#### Making predictions
  Examples [^1]
  - Automotive new technology emerging
  - Aerospace a real-time analytics application to predict subsystem performance
@@ -11,23 +11,23 @@
  - Industrial Automation and Machinery predicting machine failures
  - Medical Devices using pattern-detection algorithms to spot asthma and COPD
 
-###### Categorizing things
+#### Categorizing things
 
 Categorize things correlate certain actions taken with attaining goal.
 
-###### Spotting something unusual
+#### Spotting something unusual
 
 Looking at normal trend.
 
-###### Identifying themes
+#### Identifying themes
 
 Similar to Categorizing things but you have to group into themes that data analysts want to explore or looking for. See [^2]
 
-###### Discovering connections
+#### Discovering connections
 
 Like connecting the dot. Cause - effect relationship in the data.
 
-###### Finding patterns  
+#### Finding patterns  
 
 Looking for trends that my answer a business problem
 
