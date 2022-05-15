@@ -7,6 +7,7 @@ You can also find me in:
 
 ## Table Of Contents
 - Introduction
+- What I am doing now?
 - Learning R
    - [Quick Reference](/r/quick_ref.md)
      - Second nested list item
