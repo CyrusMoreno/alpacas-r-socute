@@ -24,4 +24,4 @@ You can also find me on:
    - First nested list item
      - Second nested list item
 
-- [Data Visualization](/viz/vz.md)
+- [Data Visualization](/viz/viz.md)
