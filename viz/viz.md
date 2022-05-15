@@ -6,7 +6,7 @@
 
 ###### Using spreadsheet application
 
--[Excel Charts - Types](https://www.tutorialspoint.com/excel_charts/excel_charts_types.htm)
+- [Excel Charts - Types](https://www.tutorialspoint.com/excel_charts/excel_charts_types.htm)
 - [Google Sheets Viz](https://support.google.com/docs/answer/190718?hl=en#zippy=%2Ctable%2Cgeo)
 
 ###### Some unique Tableau charts
