@@ -31,6 +31,12 @@ Like connecting the dot. Cause - effect relationship in the data.
 
 Looking for trends that my answer a business problem
 
+### How not to ask question
+- asking Leading questions
+- closed-ended questions
+- vague or non-specific to what we try to find out
+
+
 ***[Go back to README.md](/README.md)***
 
 [^1]: ref [Predictive Analytics](https://www.mathworks.com/discovery/predictive-analytics.html#-why-it-matters)
