@@ -7,6 +7,7 @@
 - [PostgreSQL Tutorial](https://www.postgresqltutorial.com/)
 - [PostgreSQL 14.3 Documentation](https://www.postgresql.org/docs/current/)
 - [PostgreSQL Python: Call PostgreSQL Functions](https://www.postgresqltutorial.com/postgresql-python/postgresql-python-call-postgresql-functions/)
+- [PostgreSQL - JAVA Interface](https://www.tutorialspoint.com/postgresql/postgresql_java.htm)
 
 ###### Quick Links
 - [SELECT Documentation](https://www.postgresql.org/docs/14/sql-select.html)
