@@ -29,7 +29,7 @@ Like connecting the dots. Looking for Cause - Effect relationship in the data.
 
 #### Finding patterns  
 
-Looking for trends that my answer a business problem
+Looking for trends that to answer a business problem
 
 ### How not to ask questions
 - asking Leading questions
