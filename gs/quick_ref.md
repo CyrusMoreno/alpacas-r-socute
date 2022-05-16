@@ -5,7 +5,7 @@
 More Google sheet guide available here[^1] but I have noted some for quick reference. For Excel formulas and functions, use [this](https://support.microsoft.com/en-us/office/formulas-and-functions-294d9486-b332-48ed-b489-abe7d0f9eda9?ui=en-US&rs=en-US&ad=US#id0eaabaaa=errors&ID0EBBD=Functions)
 
 
-### Querying, filtering, sampling and sorting
+### Querying, filtering and sorting
 
 - [Sort & filter your data](https://support.google.com/docs/answer/3540681?hl=en&ref_topic=9066125)
 - [Split text, remove duplicates, or trim whitespace](https://support.google.com/docs/answer/6325535?hl=en&ref_topic=9066125)
@@ -15,7 +15,7 @@ More Google sheet guide available here[^1] but I have noted some for quick refer
 - [COUNTIF](https://support.google.com/docs/answer/3093480?hl=en&ref_topic=9054531)
 - [Format numbers in a spreadsheet](https://support.google.com/docs/answer/56470?hl=en&ref_topic=9055295)
 
-### Transforming
+### Transforming and sampling 
 
 - [See the sum & average](https://support.google.com/docs/answer/66032?hl=en&ref_topic=9054531#zippy=%2Csee-an-example)
 - [QUERY function](https://support.google.com/docs/answer/3093343?hl=en&ref_topic=9054531)
