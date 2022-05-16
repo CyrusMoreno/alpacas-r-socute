@@ -33,7 +33,7 @@ pd.read_csv("202004-divvy-tripdata.csv")
 
 ### Quick Reference
 
-I want to compare Pandas to R. I base this to [Comparison with R / R libraries](https://pandas.pydata.org/docs/getting_started/comparison/comparison_with_r.html#compare-with-r)
+You can also find more info in [Comparison with R / R libraries](https://pandas.pydata.org/docs/getting_started/comparison/comparison_with_r.html#compare-with-r) which compares Pandas coming from R.
 
 ### Querying, filtering, sampling
 
