@@ -25,7 +25,7 @@ Similar to Categorizing things but you have to group into themes that data analy
 
 #### Discovering connections
 
-Like connecting the dot. Cause - effect relationship in the data.
+Like connecting the dots. Looking for Cause - Effect relationship in the data.
 
 #### Finding patterns  
 
