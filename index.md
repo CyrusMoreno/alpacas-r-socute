@@ -16,7 +16,7 @@ To appreciate the role of Data Science in our daily lives, one must understand t
 
 And, that is the job for a data analyst.
 
-To showcase what I have learned, below are some case studies I have completed in this [Course](https://www.coursera.org/professional-certificates/google-data-analytics) to showcase what I have learn:
+To showcase what I have learned, below are some case studies I have completed in this [Course](https://www.coursera.org/professional-certificates/google-data-analytics):
 
 ## Google Data Analytics Capstone: Complete a Case Study
 
