@@ -12,9 +12,9 @@ As you may know, adult life are made of big decisions, most are yours to decide 
 
 This doesn’t mean that Data Science is used to steal information, that depends on how you decide to use it. The knowledge in Data Science is more of being granted a the power to spread good in a somewhat chaotic world.
 
-To appreciate the role of Data Science in our daily lives, one must understand the importance of finding the best insight available based on your decision.
+To appreciate the role of Data Science in our daily lives, one must understand the importance of finding the best insight available in a data.
 
-And, that is the job for a data analyst.
+Such person can be called a data analyst.
 
 To showcase what I have learned, below are some case studies I have completed in this [Course](https://www.coursera.org/professional-certificates/google-data-analytics):
 
