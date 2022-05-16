@@ -219,7 +219,7 @@ rad1 <- group_by(rad ,y,z)
 
 summarise(rad1, total=sum(y,z))
 
-       y        z      total
+y        z   total
      <dbl>    <dbl>   <dbl>
 1 0.000183 0.000824 0.00101
 2 0.00112  0.117    0.119  
