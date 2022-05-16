@@ -6,7 +6,7 @@ We will be using Python for machine learning and data science. If you don't know
 
 ######  How to start Pandas [:thought_balloon:](https://pandas.pydata.org/pandas-docs/version/0.23/generated/pandas.DataFrame.shape.html)
 
-Make sure that you are in the project directory
+Make sure that you are in the project directory. 
 Using Anaconda Prompt, type in
 ```
 conda update --all
