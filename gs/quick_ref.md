@@ -24,6 +24,7 @@ More Google sheet guide available here[^1] but I have noted some for quick refer
 
 ### Grouping and summarizing
 
+- [Add & edit a chart or graph](https://support.google.com/docs/answer/63824?hl=en&ref_topic=9055207#zippy=)
 - [Create & use pivot tables](https://support.google.com/docs/answer/1272900?hl=en&ref_topic=9055396)
 - [Customize a pivot table](https://support.google.com/docs/answer/7572895?hl=en&ref_topic=9055396)
 - [Filter charts and tables with Slicers](https://support.google.com/docs/answer/9245556?hl=en&ref_topic=9055396#zippy=%2Cfilters-filter-views-slicers%2Cexample-slicer)
