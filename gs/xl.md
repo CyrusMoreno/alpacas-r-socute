@@ -94,4 +94,4 @@ _Filters_
 
 
 
-[^1]: the Beginner's Excel Tutorial - Data Science/Analysis and Beyond. Feb 24, 2022 https://youtu.be/TPBS-7OkSnM
+[^1]: the Beginner's Excel Tutorial - Data Science/Analysis and Beyond. [Feb 24, 2022](https://youtu.be/TPBS-7OkSnM).
