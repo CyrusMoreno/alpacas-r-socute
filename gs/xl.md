@@ -71,7 +71,7 @@ _Formatting_
 
 _Proper Way to Import CSVs_
 
-#### Remove Duplicates
+**Remove Duplicates**
 
 - [Find and remove duplicates(Excel)](https://support.microsoft.com/en-us/office/find-and-remove-duplicates-00e35bea-b46a-4d5d-b28e-66a552dc138d)
 - [4 Ways to Remove Duplicates in Google Sheets by makeuseof.com(Google Sheets)](https://www.makeuseof.com/ways-to-remove-duplicates-in-google-sheets/)
