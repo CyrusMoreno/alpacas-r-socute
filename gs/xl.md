@@ -2,7 +2,7 @@
 
 One experience I had with spreadsheets, perfomance really take toll as the data grew bigger or if I try to work with big data. But it good quick viewer and functions are quite useful. I compiled useful spreadsheets functions for data analysis based on Shashank Kalanithi [^1] youtube video as guide in making this list.
 
-#### Aggregate Function
+**Aggregate Function**
 
 ###### Excel
 
@@ -22,7 +22,7 @@ One experience I had with spreadsheets, perfomance really take toll as the data 
 - [MIN](https://support.google.com/docs/answer/3094017?hl=en)
 - [MAX](https://support.google.com/docs/answer/3094013?hl=en)
 
-#### Lookups
+**Lookups**
 
 ###### Excel  
 
@@ -39,7 +39,7 @@ One experience I had with spreadsheets, perfomance really take toll as the data 
 - [INDEX](https://support.google.com/docs/answer/3098242?hl=en)
 - [MATCH](https://support.google.com/docs/answer/3093378?hl=en)
 
-#### If Functions
+**If Functions**
 
 ###### Excel  
 
@@ -53,11 +53,7 @@ One experience I had with spreadsheets, perfomance really take toll as the data 
 - [SUMIF Functions](https://support.google.com/docs/answer/3093583?hl=en)
 - [COUNTIF Functions](https://support.google.com/docs/answer/3093480?hl=en)
 
-#### String Functions
-
-- [CONCAT](https://support.google.com/docs/answer/3093364?hl=en)
-
-- [CONCATENATE](https://support.google.com/docs/answer/3093364?hl=en)
+**String Functions**
 
 ###### Excel
 
@@ -71,51 +67,30 @@ One experience I had with spreadsheets, perfomance really take toll as the data 
 - [CONCATENATE](https://support.google.com/docs/answer/3094123?hl=en)
 - [TRIM](https://support.google.com/docs/answer/3094140?hl=en)
 
-###### Formatting
+_Formatting_
 
-###### Proper Why to IMport CSVs
+_Proper Why to IMport CSVs_
 
 #### Remove Duplicates
 
-###### Excel
+- [Find and remove duplicates(Excel)](https://support.microsoft.com/en-us/office/find-and-remove-duplicates-00e35bea-b46a-4d5d-b28e-66a552dc138d)
+- [4 Ways to Remove Duplicates in Google Sheets by makeuseof.com(Google Sheets)](https://www.makeuseof.com/ways-to-remove-duplicates-in-google-sheets/)
 
-- [Find and remove duplicates](https://support.microsoft.com/en-us/office/find-and-remove-duplicates-00e35bea-b46a-4d5d-b28e-66a552dc138d)
+**Text To Columns**
+- [Text to Column(Excel)](https://support.microsoft.com/en-us/office/split-text-into-different-columns-with-the-convert-text-to-columns-wizard-30b14928-5550-41f5-97ca-7a3e9c363ed7)
+- [Text to Column(Google Sheets)](https://support.google.com/docs/answer/6325535?hl=en&co=GENIE.Platform%3DDesktop)
 
-###### Google Sheets
+_Filters_
 
-- [4 Ways to Remove Duplicates in Google Sheets by makeuseof.com](https://www.makeuseof.com/ways-to-remove-duplicates-in-google-sheets/)
+**Table**
 
-#### Text To Columns
+- [Create Table(Excel)](https://support.microsoft.com/en-us/office/create-a-table-in-excel-bf0ce08b-d012-42ec-8ecf-a2259c9faf3f)
+- [Add and edit tables(Google Sheets)](https://support.google.com/docs/answer/1696711?hl=en&co=GENIE.Platform%3DDesktop&oco=0#zippy=)
 
-###### Excel
+**Pivot Tables**
 
-- [Text to Column](https://support.microsoft.com/en-us/office/split-text-into-different-columns-with-the-convert-text-to-columns-wizard-30b14928-5550-41f5-97ca-7a3e9c363ed7)
-
-###### Google Sheets
-
-- [Text to Column](https://support.google.com/docs/answer/6325535?hl=en&co=GENIE.Platform%3DDesktop)
-
-###### Filters
-
-#### Table
-
-###### Excel
-
-- [Create Table](https://support.microsoft.com/en-us/office/create-a-table-in-excel-bf0ce08b-d012-42ec-8ecf-a2259c9faf3f)
-
-###### Google Sheets
-
-- [Add and edit tables](https://support.google.com/docs/answer/1696711?hl=en&co=GENIE.Platform%3DDesktop&oco=0#zippy=)
-
-#### Pivot Tables
-
-###### Excel
-
-- [Create a PivotTable](https://support.microsoft.com/en-us/office/create-a-pivottable-to-analyze-worksheet-data-a9a84538-bfe9-40a9-a8e9-f99134456576)
-
-###### Google Sheets
-
-- [Create & use pivot tables](https://support.google.com/docs/answer/1272900?hl=en)
+- [Create a PivotTable(Excel)](https://support.microsoft.com/en-us/office/create-a-pivottable-to-analyze-worksheet-data-a9a84538-bfe9-40a9-a8e9-f99134456576)
+- [Create & use pivot tables(Google Sheets)](https://support.google.com/docs/answer/1272900?hl=en)
 
 
 
