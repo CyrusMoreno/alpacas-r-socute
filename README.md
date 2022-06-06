@@ -14,7 +14,8 @@ You can also find me on:
 
 - Spreadsheet and Data Analytics
    - [Quick Reference](/gs/quick_ref.md)
-
+   - [Sheets for Data Analysis](/gs/xl.md)
+   
 - Learning Pandas
    - [Quick Reference](/py/quick_ref.md)
 
