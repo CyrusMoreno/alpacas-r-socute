@@ -1,6 +1,6 @@
 ## Working with spreadsheets
 
-One experience I had with spreadsheets, perfomance really take toll as the data grew bigger or if I try to work with big data. But it good quick viewer and functions are quite useful. I compiled useful spreadsheets functions for data analysis based on Shashank Kalanithi [^1] youtube video as guide in making this list.
+One experience I had with spreadsheets is that the perfomance diminish as data grew bigger or if I try to work with big data. But it is good for as a quick viewer for medium or small sheet and functions are quite useful. I have compiled useful spreadsheets functions and techniques for data analysis based on Shashank Kalanithi [^1] youtube video.
 
 **Aggregate Functions**
 
