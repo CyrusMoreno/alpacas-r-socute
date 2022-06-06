@@ -2,7 +2,7 @@
 
 One experience I had with spreadsheets, perfomance really take toll as the data grew bigger or if I try to work with big data. But it good quick viewer and functions are quite useful. I compiled useful spreadsheets functions for data analysis based on Shashank Kalanithi [^1] youtube video as guide in making this list.
 
-**Aggregate Function**
+**Aggregate Functions**
 
 ###### Excel
 
