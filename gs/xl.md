@@ -69,7 +69,7 @@ One experience I had with spreadsheets is that the perfomance diminish as data g
 
 _Formatting_
 
-_Proper Why to IMport CSVs_
+_Proper Way to Import CSVs_
 
 #### Remove Duplicates
 
