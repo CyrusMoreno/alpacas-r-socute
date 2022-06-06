@@ -1,6 +1,6 @@
 ***[Go back to README.md](/README.md)***
 
-### Data analysts typically work with six problem types
+### Data analysts typically work with six problem types [^3]
 
 #### Making predictions
  Example of industry problems that use predictive analysis [^1]
@@ -41,3 +41,4 @@ Looking for trends to answer a business problem
 
 [^1]: ref [Predictive Analytics](https://www.mathworks.com/discovery/predictive-analytics.html#-why-it-matters)
 [^2]: further reading [How to Do Thematic Analysis | A Step-by-Step Guide & Examples](https://www.scribbr.com/methodology/thematic-analysis/)
+[^3]: the six problem type, I learn from my [Google Data Analytics Course](https://www.coursera.org/professional-certificates/google-data-analytics?)
