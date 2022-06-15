@@ -31,7 +31,9 @@ I completed my certification last May 2022 and still have a lot to learn. So, de
 
 ## Tools  
 
-Most of the tools for data analyst are quite new to me except for SQL and Python. Right now, what I am trying to achieve is to learn how to each program works for data analysis. In my experience, the best way to learn a (computer) language is to use it. Also, these are the things to consider when learning a language:
+Most of the tools for data analyst are quite new to me, except for SQL and Python. Right now, what I am trying to achieve is to learn how to each program works for data analysis. By experience,I learned the best way to learn a (computer) language is to put it in action. What I'am currently going for is to familiarize myself on how each program works and how they are used for data analysis.
+
+In addition, here are some things to take note of when learning a language:
 - code readability and reuse
 - robust
 - can it be extended
