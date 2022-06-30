@@ -147,7 +147,7 @@ Based on Bike Rides - April 2020,  the number of casual ride never exceeds 5000 
 
 #### Takeaways
 
-Cyclistic should promote adaptation of healthier city travel lifestyle on their social media. They may take advantage of putting add usual destination close to their bike stations particularly the one mostly used during Sundays. 
+Cyclistic should promote adaptation of healthier city travel lifestyle on their social media post and ads. They may take advantage of putting ads on popular routes which includes local stores and popular spots which are closer to Cyclistic bike stations. Ads maybe posted during Sundays where we have high volume. 
 
 
 
