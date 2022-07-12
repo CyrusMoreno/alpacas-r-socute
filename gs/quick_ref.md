@@ -29,6 +29,11 @@ More Google sheet guide available here[^1] but I have noted some for quick refer
 - [Customize a pivot table](https://support.google.com/docs/answer/7572895?hl=en&ref_topic=9055396)
 - [Filter charts and tables with Slicers](https://support.google.com/docs/answer/9245556?hl=en&ref_topic=9055396#zippy=%2Cfilters-filter-views-slicers%2Cexample-slicer)
 
+### Visualization
+
+- [Types of charts & graphs in Google Sheets](https://support.google.com/docs/answer/190718)
+
+
 ***[Go back to README.md](/README.md)***
 
 [^1]: Google Docs Editors Help [page](https://support.google.com/docs/topic/9054603?hl=en&ref_topic=1382883)
