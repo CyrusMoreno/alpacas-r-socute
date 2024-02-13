@@ -1,12 +1,12 @@
 ![mypic](/github.jpg)
 
 # Cyrus E Moreno
-#### Data Analyst
+## Data Analyst
 - [Linkedln](https://www.linkedin.com/in/cyrusemoreno/)
 - [Twitter](https://twitter.com/CyrusEMoreno)
 - [Gmail](mailto:cyrusthegreatmoreno@gmail.com)
 
-### Data Science And Beyond
+#### Data Science And Beyond
 
 First of all, thank you for taking time to read my page.
 
