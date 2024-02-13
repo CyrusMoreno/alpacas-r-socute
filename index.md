@@ -1,4 +1,4 @@
-
+![mypic](/github.jpg)
 
 # Cyrus E Moreno
 #### Data Analyst
