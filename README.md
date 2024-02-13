@@ -1,6 +1,5 @@
-# alpacas-r-socute
-## data science related coding
-You can also find me on:
+### alpacas-r-socute
+# Cyrus E Moreno
 - [LinkedIn](https://www.linkedin.com/in/cyrusemoreno/)
 - [Kaggle](https://www.kaggle.com/cyrusmoreno)
 - [Twitter](https://twitter.com/CyrusEMoreno)
