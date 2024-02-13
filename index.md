@@ -1,9 +1,10 @@
-#### Cyrus E Moreno
-:office: [Linkedln](https://www.linkedin.com/in/cyrusemoreno/)  
-:bird: [Twitter or X](https://www.linkedin.com/in/cyrusemoreno/)  
-:email: [Gmail](https://www.linkedin.com/in/cyrusemoreno/)
+## Cyrus E Moreno
 
-## Data Science And Beyond
+
+<a href="https://www.linkedin.com/in/cyrusemoreno/">Linkedln</a></br>
+<a href="https://twitter.com/CyrusEMoreno">Twitter or X</a> </br>
+<a href="mailto:cyrusthegreatmoreno@gmail.com">Gmail</a>
+### Data Science And Beyond
 
 First of all, thank you for taking time to read my page.
 
