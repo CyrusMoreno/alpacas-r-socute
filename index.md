@@ -1,3 +1,4 @@
+![mypic](/github.jpg)
 
 ## Cyrus E Moreno
 - [Linkedln](https://www.linkedin.com/in/cyrusemoreno/)
