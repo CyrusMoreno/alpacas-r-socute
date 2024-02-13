@@ -18,7 +18,7 @@ Though my initial visualization was static and limited to a month’s data, I’
 ## Case Study: Cyclistic Bike Share
 #### How does a bike-share navigate speedy success?
 
-Here is the scenario, I am a junior data analyst working in the marketing analyst team at Cyclistic, a bike-share company in Chicago. The director of marketing believes the company's future success depends on maximizing the number of annual memberships. Therefore, your team wants to understand how casual riders and annual members use Cyclistic bikes differently. From these insights, your team will design a new marketing strategy to convert casual riders into annual members. But first, Cyclistic executives must apporove your recommendations, so they must be backed up with compelling data insights and professional data visualizations.
+Here is the scenario, I am a junior data analyst working in the marketing analyst team at Cyclistic, a bike-share company in Chicago. The director of marketing believes the company's future success depends on maximizing the number of annual memberships. Therefore, my team wants to understand how casual riders and annual members use Cyclistic bikes differently. From these insights, my team will design a new marketing strategy to convert casual riders into annual members. But first, Cyclistic executives must apporove our recommendations, so they must be backed up with compelling data insights and professional data visualizations.
 
 In this project, I analyzed bike share data to uncover key usage patterns. I used data cleaning techniques to ensure the quality and accuracy of the data, followed by exploratory data analysis to identify trends and patterns.
 
