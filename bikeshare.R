@@ -13,7 +13,7 @@ head(dataframe)
 colnames(dataframe)
 
 ## get number of rows
-nrow(df)
+nrow(dataframe)
 
 ##get number of unique value in one column
 length(unique(dataframe$column_name))
