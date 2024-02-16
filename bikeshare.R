@@ -3,12 +3,18 @@ setwd("path/to/csv/files")
 # get working directory
 getwd()
 
-## load
+## load csv file
 dataframe<-read.csv("filename.csv")
 
-head(df)
-colnames(df)
+## view dataframe
+head(dataframe)
+
+## get number of columns
+colnames(dataframe)
+
+## get number of rows
 nrow(df)
+
 ##get number of unique value in one column
 length(unique(dataframe$column_name))
 
