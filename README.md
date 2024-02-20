@@ -6,4 +6,4 @@
 - [Gmail](mailto:cyrusthegreatmoreno@gmail.com)
 
 ## Github Notes
-I have included my portfolio notes here related to my bike-share portfolio. The filename should start with bikeshare. Also, I move my learning page to the this [link.](/learning.md)
+I have included my bike-share portfolio notes here: bikeshare.R, bikeshare.sql and bikeshare.ipynb. Also, I move my learning page to the this [link.](/learning.md)
