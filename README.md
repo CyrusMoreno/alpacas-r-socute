@@ -1,6 +1,6 @@
 ### alpacas-r-socute
 # Cyrus E Moreno
-#### Data Analyst
+##### Contact Me
 - [LinkedIn](https://www.linkedin.com/in/cyrusemoreno/)
 - [Kaggle](https://www.kaggle.com/cyrusmoreno)
 - [Twitter](https://twitter.com/CyrusEMoreno)
