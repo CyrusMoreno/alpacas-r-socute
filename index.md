@@ -39,7 +39,7 @@ In this project, I analyzed bike share data to uncover key usage patterns. I use
 #### Interactive Dashboard
 Here is a screenshot of the interactive dashboard I created using Excel. This dashboard allows users to explore the data in a user-friendly and intuitive manner.
 
-![dashboard](/dashboard.jpg)
+[![dashboard](/dashboard.jpg)](https://1drv.ms/x/s!AlqOSNWLwB1YiUAwyE4vUIPC8NrR?e=joqo7M)
 
 #### Key Findings
 - **Cyclistic members vs Casual:** There are significantly more annual membership users each month compared to casual users.
