@@ -13,7 +13,7 @@
 
 I’m a data enthusiast skilled in Python, R, Tableau, SQL, Excel, and Google Sheets, with a knack for turning raw data into actionable insights. My journey began with the [Google Data Analyst Course](https://www.coursera.org/account/accomplishments/specialization/certificate/ZVCWVNBZ35LT) in 2022, where I first analyzed Bike Share data.
 
-Though my initial visualization was static and limited to a month’s data, I’ve since revisited the project. Now, I’ve created an interactive visualization that spans a full year’s data, demonstrating my growth and adaptability in data analysis.
+Though my [initial](/old-index.md) visualization was static and limited to a month’s data, I’ve since revisited the project. Now, I’ve created an interactive visualization that spans a full year’s data, demonstrating my growth and adaptability in data analysis.
 
 ## Case Study: Cyclistic Bike Share
 #### How does a bike-share navigate speedy success?
@@ -37,7 +37,7 @@ In this project, I analyzed bike share data to uncover key usage patterns. I use
 3. Data Visualization: I used various visualization techniques to present my findings in an understandable and visually appealing way.
 
 #### Interactive Dashboard
-Here is a screenshot of the interactive dashboard I created using Excel. This dashboard allows users to explore the data in a user-friendly and intuitive manner.
+Here is he interactive dashboard I created using Excel. This dashboard allows users to explore the data in a user-friendly and intuitive manner.
 
 [![dashboard](/dashboard.jpg)](https://1drv.ms/x/s!AlqOSNWLwB1YiUAwyE4vUIPC8NrR?e=joqo7M)
 
@@ -54,7 +54,7 @@ I recommend investigating the establishments near these popular stations, such a
 
 Additionally, if casual users are using the service for commuting, suggesting stations near apartment buildings could offer them a shorter commute if they choose to relocate.
 
-These efforts could potentially convert casual users into annual members, thereby increasing the user base and overall profitability. Lastly, here is the link to this [project’s dashboard](https://1drv.ms/x/s!AlqOSNWLwB1YiUAwyE4vUIPC8NrR?e=joqo7M).
+These efforts could potentially convert casual users into annual members, thereby increasing the user base and overall profitability. Lastly, here is the link to this [project’s dashboard](https://1drv.ms/x/s!AlqOSNWLwB1YiUAwyE4vUIPC8NrR?e=joqo7M). 
 
 #### Contact Me
-I’m always open to discussing data analysis projects, job opportunities, or potential collaborations. Feel free to reach out to me through [email](mailto:cyrusthegreatmoreno@gmail.com) or connect with me on [Linkedln](https://www.linkedin.com/in/cyrusemoreno/).
+You find my notes [here](https://github.com/CyrusMoreno/alpacas-r-socute/tree/main).  I’m always open to discussing data analysis projects, job opportunities, or potential collaborations. Feel free to reach out to me through [email](mailto:cyrusthegreatmoreno@gmail.com) or connect with me on [Linkedln](https://www.linkedin.com/in/cyrusemoreno/). 
