@@ -37,7 +37,7 @@ In this project, I analyzed bike share data to uncover key usage patterns. I use
 3. Data Visualization: I used various visualization techniques to present my findings in an understandable and visually appealing way.
 
 #### Interactive Dashboard
-Here is he interactive dashboard I created using Excel. This dashboard allows users to explore the data in a user-friendly and intuitive manner.
+Here is the interactive dashboard I created using Excel. This dashboard allows users to explore the data in a user-friendly and intuitive manner.
 
 [![dashboard](/dashboard.jpg)](https://1drv.ms/x/s!AlqOSNWLwB1YiUAwyE4vUIPC8NrR?e=joqo7M)
 
